@@ -34,7 +34,7 @@ jobs:
       - name: config
         run: |
           git pull
-          git config --global user.email "JGHGGHHVFJGH676545756642FD4HF97JJLJl@gmail.com"
+          git config --global user.email "APYANOS6.5434.76756454GFD.HGHl@gmail.com"
           git config --global user.name "APYANOS"
       
       
